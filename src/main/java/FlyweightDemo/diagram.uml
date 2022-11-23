@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-193.0" y="47.0">FlyweightDemo.Squares.SquareType</node>
+    <node x="-483.0" y="-48.66666666666667">FlyweightDemo.Field</node>
+    <node x="-519.0" y="-100.0">FlyweightDemo.FlyweightDemo</node>
+    <node x="-319.0" y="-2.0">FlyweightDemo.Squares.SquareFactory</node>
+    <node x="-319.0" y="47.0">FlyweightDemo.Squares.Square</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="-282.00000000000006" y="-2.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
